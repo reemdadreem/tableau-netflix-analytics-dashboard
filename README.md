@@ -15,8 +15,7 @@
 Explore the interactive Tableau dashboard here:
 
 👉 **Tableau Public:**  
-https://public.tableau.com/app/profile/kareem.watts6228/viz/NetflixDashboard_16738648853780/Dashboard1
-
+[![View Dashboard](https://img.shields.io/badge/View%20Interactive%20Dashboard-Tableau%20Public-E97627?logo=tableau)](https://public.tableau.com/app/profile/kareem.watts6228/viz/NetflixDashboard_16738648853780/Dashboard1)
 ---
 
 # 📌 Business Problem
@@ -126,7 +125,8 @@ Future enhancements may include:
 - Viewer engagement analytics
 - Predictive trend analysis
 - Enhanced dashboard interactivity
-
+  
+> **Note:** This is an independent portfolio project created for educational and demonstration purposes and is not affiliated with Netflix.
 ---
 
 # 👨‍💻 About Me
